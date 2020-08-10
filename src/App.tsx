@@ -1,5 +1,5 @@
 import React from 'react';
-import Button from '@zeit-ui/react/esm/button';
+import { Button } from '@zeit-ui/react';
 import logo from './logo.svg';
 import './App.css';
 
